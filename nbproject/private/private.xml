@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopController/studentcontroller.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopController/lecturercontroller.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/staffView.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopController/staffcontroller.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/mainView.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopDao/studentDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopModel/studentModel.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/lecturerView.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopDao/staffDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopDataBase/DBConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopModel/staffModel.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopModel/lecturerModel.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopDao/lecturerDao.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/LoginView.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/WelcomeView.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oop/mvc/OOPMVC.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/OOP%20MVC/src/oopView/studentView.java</file>
+        </group>
+    </open-files>
+</project-private>
